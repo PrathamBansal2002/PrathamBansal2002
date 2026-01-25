@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 ## I am Pratham Bansal.
-A final year undergraduate student at IIT Kharagpur. I am interested in applied machine learning, mathematics and trading.
+I'm a 2025 graduate from IIT Kharagpur with a B.S. in Economics. My interests lie in applied machine learning, mathematics, and trading.
 
 - 🚀 &nbsp; Please reach out for any collaboration in these areas or any other issue regarding the existing repositories.
 
